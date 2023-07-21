@@ -1,6 +1,7 @@
 # Google URL Mapping with Spring MVC: Query Processor
 
 ## Overview
+![Image Descripation](images/search.PNG)
 
 This project is a web application developed using Spring MVC that provides a URL mapping functionality for Google URLs and processes queries sent through POST requests...
 
